@@ -34,5 +34,11 @@
         "version": "1.29.4",
         "download_id": "1Mk2ep1aZ8WT78SQQXTbz1HsPWKC6kHR3",
         "filepath": "./utilities/tools/yt-dlp/gallery-dl.exe"
+    },
+    {
+        "name": "updater",
+        "version": "0.10",
+        "download_id": "16CaQY6tQVgEOd4rZmFcBNwC94g71oOoN",
+        "filepath": "./SnapKeyUpdater.exe"
     }
 ]
