@@ -36,9 +36,9 @@
         "filepath": "./utilities/tools/yt-dlp/gallery-dl.exe"
     },
     {
-        "name": "updater",
-        "version": "0.10",
-        "download_id": "16CaQY6tQVgEOd4rZmFcBNwC94g71oOoN",
+        "name": "auto-updater",
+        "version": "0.14",
+        "download_id": "1PSdLZL4MgVOlCsriwRiTZaYy5NjN2qyN",
         "filepath": "./SnapKeeUpdater.exe"
     }
 ]
