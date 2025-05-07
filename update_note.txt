@@ -1,3 +1,3 @@
-- Update 1
-- Update 2
-- Update 3
+- Fixed issue with Media Converter functionality
+- General bug fixes and stability improvements
+Thank you for using SnapKee!
