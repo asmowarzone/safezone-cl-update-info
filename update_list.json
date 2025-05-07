@@ -1,11 +1,11 @@
 {
     "news": {
-        "code": "8819",
+        "code": "",
         "link": "www.bobdevteam.com"
     },
     "update": [
         {
-            "version": "0.0.30",
+            "version": "0.0.11",
             "download_id": "15rcFFSVNWCvretzJKcHuZO0rJMNK3TDO"
         },
         {
