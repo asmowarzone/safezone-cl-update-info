@@ -1,3 +1,6 @@
-- Fixed issue with Media Converter functionality
+- Fix INSTAGRAM Scrapper
+- Fix Auto Shutdown Function
+- Add cookie support for YOUTUBE
+- Add new feature "Extract Image From Video"
 - General bug fixes and stability improvements
 Thank you for using SnapKee!
