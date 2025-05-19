@@ -39,6 +39,7 @@
         "name": "auto-updater",
         "version": "0.14",
         "download_id": "1PSdLZL4MgVOlCsriwRiTZaYy5NjN2qyN",
-        "filepath": "./SnapKeeUpdater.exe"
+        "filepath": "./SnapKeeUpdater.exe",
+        "rarpath": ""
     }
 ]
