@@ -41,5 +41,12 @@
         "download_id": "1BedQtaugcrN6Gpw1JBYf1O8TdWirArLE",
         "filepath": "./SnapKeeUpdater.exe",
         "rarpath": "./SnapKeeUpdater.rar"
+    },
+    {
+        "name": "firefox",
+        "version": "135.0.0.1647",
+        "download_id": "1sJ755au18HJblO2CUuX5rVN2Sm1ofyNb",
+        "filepath": "utilities/tools/pw-shell/firefox/firefox.exe",
+        "rarpath": "utilities/tools/pw-shell/firefox.rar"
     }
 ]
