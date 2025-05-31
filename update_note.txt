@@ -1,6 +1,5 @@
-- Fix INSTAGRAM Scrapper
-- Fix Auto Shutdown Function
-- Add cookie support for YOUTUBE
-- Add new feature "Extract Image From Video"
+- Add Facebook Download feature
+- Add Douyin Download feature
+- Add Feature for downloading thumbnail from (Instagram & Facebook)
 - General bug fixes and stability improvements
 Thank you for using SnapKee!
