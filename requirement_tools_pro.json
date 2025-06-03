@@ -1,5 +1,11 @@
 [
     {
+        "name": "aria2c",
+        "version": "1.37.0",
+        "download_id": "1LmtuKgWtVk4K5xIVXjIac2YSPbJKXe10",
+        "filepath": "utilities/tools/yt-dlp/aria2c.exe"
+    },
+    {
         "name": "yt-dlp",
         "version": "2025.03.31",
         "download_id": "1G_Miup9u8-IABd-0FWpKorVCfC4Tz8TR",
@@ -22,12 +28,6 @@
         "version": "N-118735-gbdc07f372a-20250311",
         "download_id": "18gfyBIPaSfK3q8yYPfyzPHJb-jf1I9_O",
         "filepath": "utilities/tools/yt-dlp/ffplay.exe"
-    },
-    {
-        "name": "aria2c",
-        "version": "1.37.0",
-        "download_id": "1LmtuKgWtVk4K5xIVXjIac2YSPbJKXe10",
-        "filepath": "utilities/tools/yt-dlp/aria2c.exe"
     },
     {
         "name": "gallery-dl",
