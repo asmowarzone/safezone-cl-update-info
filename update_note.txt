@@ -1,5 +1,4 @@
-- Add Facebook Download feature
-- Add Douyin Download feature
-- Add Feature for downloading thumbnail from (Instagram & Facebook)
-- General bug fixes and stability improvements
+- Fix Instagram Scrapper.
+- Add More Platform & Site Support.
+- Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
