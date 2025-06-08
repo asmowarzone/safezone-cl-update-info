@@ -1,4 +1,5 @@
-- Fix Instagram Scrapper.
-- Add More Platform & Site Support.
-- Minor bug fixes & stability improvements.
+▪ Add functionality to Past Path (Folders/Files) directly to Media converter 
+▪ Fix drag & drop function of Media converter
+▪ Enhance functionality of LD player support
+▪ Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
