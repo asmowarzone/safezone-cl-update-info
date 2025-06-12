@@ -1,0 +1,66 @@
+[
+    {
+        "name": "aria2c",
+        "version": "1.37.0",
+        "download_id": "1Vu9s_7Mi7NEDMSFvedobZdETQEl7qlX-",
+        "filepath": "utilities/tools/yt-dlp/aria2c.exe"
+    },
+    {
+        "name": "yt-dlp",
+        "version": "2025.03.31",
+        "download_id": "1Ou3xFytfDYtvcpxQniGRAbbtd5cWksUL",
+        "filepath": "utilities/tools/yt-dlp/yt-dlp.exe"
+    },
+    {
+        "name": "ffmpeg",
+        "version": "N-118735-gbdc07f372a-20250311",
+        "download_id": "1mmwTETF_alhJLjIhcIIteQFfOekFdyoW",
+        "filepath": "utilities/tools/yt-dlp/ffmpeg.exe"
+    },
+    {
+        "name": "ffprobe",
+        "version": "N-118735-gbdc07f372a-20250311",
+        "download_id": "14kwh1CLMdZbTPCZ4NC62OvhqPRz-Clo3",
+        "filepath": "utilities/tools/yt-dlp/ffprobe.exe"
+    },
+    {
+        "name": "ffplay",
+        "version": "N-118735-gbdc07f372a-20250311",
+        "download_id": "1oyU4FllvNnZLwdxTPZaL9oafIYch77Ug",
+        "filepath": "utilities/tools/yt-dlp/ffplay.exe"
+    },
+    {
+        "name": "gallery-dl",
+        "version": "1.29.4",
+        "download_id": "1q00rvxNsVcZrTttrvIBsKkfhqwmO0jrL",
+        "filepath": "utilities/tools/yt-dlp/gallery-dl.exe"
+    },
+    {
+        "name": "auto-updater",
+        "version": "0.15",
+        "download_id": "1GTlUoaWs1Xrr3nPS2YyCyZOuFI4bU3Bb",
+        "filepath": "./SnapKeeUpdater.exe",
+        "rarpath": "./SnapKeeUpdater.rar"
+    },
+    {
+        "name": "pw-firefox",
+        "version": "135.0.0.1647",
+        "download_id": "188YHmDFJ1xWq-NGsdI7jUs3UlkTCXHtu",
+        "filepath": "utilities/tools/pw-shell/firefox/firefox.exe",
+        "rarpath": "utilities/tools/pw-shell/pw-firefox.rar"
+    },
+    {
+        "name": "pw-chromium",
+        "version": "134.0.6998.35",
+        "download_id": "1GpEKF2KMa3rg6CD_buw97MorYg0D5cAf",
+        "filepath": "utilities/tools/pw-shell/chromium/chrome.exe",
+        "rarpath": "utilities/tools/pw-shell/pw-chromium.rar"
+    },
+    {
+        "name": "pw-chromium_headless",
+        "version": "134.0.6998.35",
+        "download_id": "1uw85yxiMoge3U8VvCQ4JDSmRwsypPUBD",
+        "filepath": "utilities/tools/pw-shell/chromium_headless/headless_shell.exe",
+        "rarpath": "utilities/tools/pw-shell/pw-chromium_headless.rar"
+    }
+]
