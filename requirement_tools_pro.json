@@ -45,21 +45,21 @@
     {
         "name": "pw-firefox",
         "version": "135.0.0.1647",
-        "download_id": "1sJ755au18HJblO2CUuX5rVN2Sm1ofyNb",
+        "download_id": "1U33NE_XL6O2-3Hg_4MetM-7L3Qcd3Uy8",
         "filepath": "utilities/tools/pw-shell/firefox/firefox.exe",
         "rarpath": "utilities/tools/pw-shell/pw-firefox.rar"
     },
     {
         "name": "pw-chromium",
         "version": "134.0.6998.35",
-        "download_id": "1wYlYIptj5_M44AMO544yVBJBVK4n-pfm",
+        "download_id": "1vlnkKqUrsxdb7jzLWGm3UT0DK1qAZ8W6",
         "filepath": "utilities/tools/pw-shell/chromium/chrome.exe",
         "rarpath": "utilities/tools/pw-shell/pw-chromium.rar"
     },
     {
         "name": "pw-chromium_headless",
         "version": "134.0.6998.35",
-        "download_id": "1yiCM_OBQ2cse3og2OEhjmjDPUqA25lI8",
+        "download_id": "1ASikL1HWWL2QTfB6JEWQMKY3WYMKDwUO",
         "filepath": "utilities/tools/pw-shell/chromium_headless/headless_shell.exe",
         "rarpath": "utilities/tools/pw-shell/pw-chromium_headless.rar"
     }
