@@ -2,37 +2,37 @@
     {
         "name": "aria2c",
         "version": "1.37.0",
-        "download_id": "1LmtuKgWtVk4K5xIVXjIac2YSPbJKXe10",
+        "download_id": "179DB8tUEieQ4gXxhqMHcwIX1sqN-_DpC",
         "filepath": "utilities/tools/yt-dlp/aria2c.exe"
     },
     {
         "name": "yt-dlp",
         "version": "2025.03.31",
-        "download_id": "1G_Miup9u8-IABd-0FWpKorVCfC4Tz8TR",
+        "download_id": "1uBncwL6aKty_qVJm-_ho7611YrHuOxHh",
         "filepath": "utilities/tools/yt-dlp/yt-dlp.exe"
     },
     {
         "name": "ffmpeg",
         "version": "N-118735-gbdc07f372a-20250311",
-        "download_id": "1kRNNwUAESmtPaOjjZ_qvH2CVBtcRkme0",
+        "download_id": "1zNeQpFsNcuia6n88x7nlBaVLPhNbvR01",
         "filepath": "utilities/tools/yt-dlp/ffmpeg.exe"
     },
     {
         "name": "ffprobe",
         "version": "N-118735-gbdc07f372a-20250311",
-        "download_id": "19_F9or4GtjceZeSepTs5EZkJz9IiXgWC",
+        "download_id": "1zQpLaCNUOQaus5KDftv8Z7N8qr4zNtIU",
         "filepath": "utilities/tools/yt-dlp/ffprobe.exe"
     },
     {
         "name": "ffplay",
         "version": "N-118735-gbdc07f372a-20250311",
-        "download_id": "18gfyBIPaSfK3q8yYPfyzPHJb-jf1I9_O",
+        "download_id": "14FeBACtWWyAlca7jrWjmGEjBzgncc06r",
         "filepath": "utilities/tools/yt-dlp/ffplay.exe"
     },
     {
         "name": "gallery-dl",
         "version": "1.29.4",
-        "download_id": "1Mk2ep1aZ8WT78SQQXTbz1HsPWKC6kHR3",
+        "download_id": "1KOrHypGwTWTvSrL8WPrTALzjeA3ogTdR",
         "filepath": "utilities/tools/yt-dlp/gallery-dl.exe"
     },
     {
