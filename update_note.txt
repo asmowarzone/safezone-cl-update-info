@@ -1,5 +1,4 @@
-▪  Enhance youtube downloader feature to minimize bot detection.
-▪  Fix "Downloading Failed" when perform software update.
-▪  Fix "Limit hashtags" feature (set 0 → remove all hashtags)
+▪  Fix "Douyin" downloading feature.
+▪  Fix "SnapKee Updater" when perform software update.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
