@@ -1,5 +1,5 @@
 ▪  Add "Kuaishou" downloading feature (Beta version).
 ▪  Fix "SnapKee Updater".
-▪  Minor UX/UI enhacnrments.
+▪  Minor UX/UI enhancements.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
