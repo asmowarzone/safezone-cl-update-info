@@ -1,5 +1,5 @@
-▪  Add "Kuaishou" downloading feature (Beta version).
-▪  Fix "SnapKee Updater".
+▪  Add "RedNote" "Xiaohongshu" downloading feature (Beta version).
+▪  Add "Medal" downloading feature (Beta version).
 ▪  Minor UX/UI enhancements.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
