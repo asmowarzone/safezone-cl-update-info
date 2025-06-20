@@ -1,5 +1,6 @@
-▪  Add "Kuaishou" downloading feature (Beta version).Add commentMore actions
-▪  Fix "SnapKee Updater".
+▪  Add "RedNote/Xiaohongshu" → (xiaohongshu.com) downloading feature (Beta version).
+▪  Add "Medal - gaming video" → (medal.tv) downloading feature (Beta version).
+▪  Fix "Media converter" functionality.
 ▪  Minor UX/UI enhancements.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
