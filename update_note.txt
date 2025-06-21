@@ -1,6 +1,16 @@
-▪  Add "RedNote/Xiaohongshu" → (xiaohongshu.com) downloading feature (Beta version).
-▪  Add "Medal - gaming video" → (medal.tv) downloading feature (Beta version).
-▪  Fix "Media converter" functionality.
-▪  Minor UX/UI enhancements.
+▪  Enabled feature to downlaod "Video Thumbnail" from:
+   → Kuashou
+   → Youtube
+   → Tiktok
+   → Douyin
+   → Kwai
+   → SnackVideos
+   → Medal.tv
+▪  Enhanced "Facebook" downloading feature.
+▪  Enhanced "Youtube" downloading feature to separate file folder of:
+   → video
+   → shorts
+   → playlist
+▪  Enhanced "Tiktok" downloading feature to get full title/caption of videos or photos.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!

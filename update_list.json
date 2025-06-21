@@ -5,6 +5,10 @@
     },
     "update": [
         {
+            "version": "1.2.01",
+            "download_id": "1a8Yrk9-SUx8dhalrQI4UmOYPshQtq3AQ"
+        },
+        {
             "version": "1.2.00",
             "download_id": "1UfpiCgtUa8A-sqWE0eS5foiIRfchBeec"
         },
@@ -34,3 +38,5 @@
         }
     ]
 }
+
+
