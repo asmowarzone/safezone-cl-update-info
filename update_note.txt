@@ -1,16 +1,9 @@
-▪  Enabled feature to downlaod "Video Thumbnail" from:
-   → Kuashou
+▪  Enhanced "Tiktok" downloading feature to get full title/caption of videos or photos.
+▪  Enhanced "Facebook" downloading feature (Profile with ID)
+▪  Optimized speed and enhanced downloading feature:
+   → Kuaishou
    → Youtube
-   → Tiktok
-   → Douyin
    → Kwai
    → SnackVideos
-   → Medal.tv
-▪  Enhanced "Facebook" downloading feature.
-▪  Enhanced "Youtube" downloading feature to separate file folder of:
-   → video
-   → shorts
-   → playlist
-▪  Enhanced "Tiktok" downloading feature to get full title/caption of videos or photos.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
