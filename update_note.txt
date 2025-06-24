@@ -1,9 +1,6 @@
-▪  Enhanced "Tiktok" downloading feature to get full title/caption of videos or photos.
-▪  Enhanced "Facebook" downloading feature (Profile with ID)
-▪  Optimized speed and enhanced downloading feature:
-   → Kuaishou
-   → Youtube
-   → Kwai
-   → SnackVideos
+▪  Improve "Pinterest" downloading feature.
+▪  Improve "Xiaohongshu" downloading Speed and Performance.
+▪  Fix issue of re-downloading (when download is completed but user click on "Download Now" again).
+▪  Prevent issue when clicked on scrap but no link provided.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
