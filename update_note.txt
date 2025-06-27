@@ -1,6 +1,5 @@
-▪  Improve "Pinterest" downloading feature.
-▪  Improve "Xiaohongshu" downloading Speed and Performance.
-▪  Fix issue of re-downloading (when download is completed but user click on "Download Now" again).
-▪  Prevent issue when clicked on scrap but no link provided.
+▪  Fix "Facebook" downloading feature: 
+   → Get full caption that error in some url.
+▪  Minor UX/UI improvements.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
