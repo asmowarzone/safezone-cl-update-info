@@ -1,5 +1,6 @@
-▪  Fix "Facebook" downloading feature: 
-   → Get full caption that error in some url.
-▪  Minor UX/UI improvements.
+▪  Fix "Youtube" scraping feature 
+   → Removed duplicated link.
+▪  Fix "Facebook" scraping feature 
+   → Check and normalize link before past into scraper.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
