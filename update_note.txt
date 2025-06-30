@@ -1,6 +1,6 @@
-▪  Fix "Youtube" scraping feature 
+▪  Fix "Youtube" scraping feature:
    → Removed duplicated link.
-▪  Fix "Facebook" scraping feature 
+▪  Fix "Facebook" scraping feature: 
    → Check and normalize link before past into scraper.
 ▪  Minor bug fixes & stability improvements.
 Thank you for using SnapKee!
