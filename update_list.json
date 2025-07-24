@@ -5,52 +5,16 @@
     },
     "update": [
         {
+            "version": "1.2.06",
+            "download_id": "170QkeguDLE3sD2l--QDLgZB0DEFcHczd"
+        },
+        {
             "version": "1.2.05",
             "download_id": "1ZVloU3cxd34T4cXpFEfTZB9Rj5KVhIf-"
         },
         {
             "version": "1.2.04",
             "download_id": "1LyAkjjLOh41vhY378IBLYPr90UvVrg5o"
-        },
-        {
-            "version": "1.2.03",
-            "download_id": "1ET-bNsHgUGDvuhA9-93nz01Qs-EVgj4_"
-        },
-        {
-            "version": "1.2.02",
-            "download_id": "1voK_ZsrI2asPAIxNGSZiCnBl21agLoUC"
-        },
-        {
-            "version": "1.2.01",
-            "download_id": "1a8Yrk9-SUx8dhalrQI4UmOYPshQtq3AQ"
-        },
-        {
-            "version": "1.2.00",
-            "download_id": "1UfpiCgtUa8A-sqWE0eS5foiIRfchBeec"
-        },
-        {
-            "version": "1.1.00",
-            "download_id": "1TP5cPRAHSBPd1MISiP78sv7XD91O7_sf"
-        },
-        {
-            "version": "1.0.05",
-            "download_id": "1pecRX8WrOqWPSI_rwft7JXxxbGebnjJG"
-        },
-        {
-            "version": "1.0.04",
-            "download_id": "14ADT1b0k-_6vJRbXabAnCTzr05h4MC45"
-        },
-        {
-            "version": "1.0.03",
-            "download_id": "1n8YnYGhqSi7NE89F8BBaMm-fh1-4y_gW"
-        },
-        {
-            "version": "1.0.01",
-            "download_id": "1p8YQjEgFKo6l6u4pFIfZoiY1xyo1_Cnr"
-        },
-        {
-            "version": "1.0.00",
-            "download_id": "1W5BW56_AJkKGK7bp0xnYey3DSA9-5ptt"
         }
     ]
 }
