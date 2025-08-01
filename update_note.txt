@@ -1,6 +1,4 @@
-▪  Improve Scraping and Downloading Speed
-▪  Enhance "Youtube" scraping feature:
-   → Auto scrap shorts when user pasted link of channel.
-▪  Fix issue that cuased from WMIC feature was not enabled on Windows 11.
-▪  Minor bug fixes & stability improvements.
+▪  Improved performance for scraping and downloading
+▪  Fixed issue that caused an error when applying licenses
+▪  Minor bug fixes and stability improvements
 Thank you for using SnapKee!
