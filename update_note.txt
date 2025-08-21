@@ -1,4 +1,6 @@
+▪  Fixed DOUYIN scraping & downloading
+▪  Fixed downloading from DOUYIN using Link Grabber
 ▪  Improved performance for scraping and downloading
-▪  Fixed issue that caused an error when applying licenses
 ▪  Minor bug fixes and stability improvements
+
 Thank you for using SnapKee!
