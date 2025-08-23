@@ -5,8 +5,12 @@
     },
     "update": [
         {
+            "version": "1.2.09",
+            "download_id": "1FSUfT8mjX4W_ZENkAbBCf9c2IRr0LN3V"
+        },
+        {
             "version": "1.2.08",
-            "download_id": "1GRRycoD0BeFqt3gODNexEYR3o6dY0tXE"
+            "download_id": "1FSUfT8mjX4W_ZENkAbBCf9c2IRr0LN3V"
         },
         {
             "version": "1.2.07",

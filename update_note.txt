@@ -1,6 +1,5 @@
-▪  Fixed DOUYIN scraping & downloading
-▪  Fixed downloading from DOUYIN using Link Grabber
-▪  Improved performance for scraping and downloading
+▪  Fixed Scraping & Downloading issue on KUAISHOU
+▪  Fixed Scraping & Downloading issue on XIAOHONGSHU | REDNOTE
 ▪  Minor bug fixes and stability improvements
 
 Thank you for using SnapKee!
