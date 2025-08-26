@@ -1,5 +1,4 @@
-▪  Fixed Scraping & Downloading issue on KUAISHOU
-▪  Fixed Scraping & Downloading issue on XIAOHONGSHU | REDNOTE
+▪  Improve performance on Scraping & Downloading
 ▪  Minor bug fixes and stability improvements
 
 Thank you for using SnapKee!

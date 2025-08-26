@@ -5,20 +5,12 @@
     },
     "update": [
         {
+            "version": "1.2.10",
+            "download_id": "1qGfwVfS6C2sxmdymkDbnConXQ6SHRrvd"
+        },
+        {
             "version": "1.2.09",
             "download_id": "1FSUfT8mjX4W_ZENkAbBCf9c2IRr0LN3V"
-        },
-        {
-            "version": "1.2.08",
-            "download_id": "1FSUfT8mjX4W_ZENkAbBCf9c2IRr0LN3V"
-        },
-        {
-            "version": "1.2.07",
-            "download_id": "1FDSuNDvsIMHD9fLeZ9dtaMLXQTlXkuCC"
-        },
-        {
-            "version": "1.2.06",
-            "download_id": "170QkeguDLE3sD2l--QDLgZB0DEFcHczd"
         }
     ]
 }
