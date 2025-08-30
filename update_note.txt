@@ -1,4 +1,5 @@
-▪  Improve performance on Scraping & Downloading
-▪  Minor bug fixes and stability improvements
+▪  Fix TIKTOK Scrapping & Downloading feature.
+▪  Improve performance on Scraping & Downloading.
+▪  Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
