@@ -1,4 +1,5 @@
-▪  Fix TIKTOK Scrapping & Downloading feature.
+▪  Fix TIKTOK | Unknown User Profile or Username.
+▪  Fix LINK GRABBER | Downloading Feature.
 ▪  Improve performance on Scraping & Downloading.
 ▪  Minor bug fixes and stability improvements.
 
