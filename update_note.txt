@@ -1,6 +1,6 @@
-▪  Fix TIKTOK | Unknown User Profile or Username.
-▪  Fix LINK GRABBER | Downloading Feature.
-▪  Improve performance on Scraping & Downloading.
+▪  Improve KUAISHOU | Scraping & Downloading Feature.
+▪  Improve FACEBOOK | Video Downloading Feature.
+▪  Improve performance of Scraping & Downloading.
 ▪  Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
