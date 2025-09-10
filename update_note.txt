@@ -1,5 +1,4 @@
-▪  Improve KUAISHOU | Scraping & Downloading Feature.
-▪  Improve FACEBOOK | Video Downloading Feature.
+▪  Improve FACEBOOK | Scraping & Downloading Feature.
 ▪  Improve performance of Scraping & Downloading.
 ▪  Minor bug fixes and stability improvements.
 
