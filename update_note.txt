@@ -5,7 +5,7 @@ New Feature - Manage on Workspace:
 ▪ Limit number of NEW content to download
 ▪ Monitor workspace storage and more.
 
-Improvements
+Improvements:
 ▪ Performance of Scraping & Downloading.
 ▪ UX & UI enhancement
 ▪ Minor bug fixes and stability improvements.
