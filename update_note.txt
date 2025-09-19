@@ -1,13 +1,7 @@
-New Feature - Manage on Workspace:
-▪ Check number of content in workspace (SnapKee | External)
-▪ Add or Update Link to Downloading
-▪ Filter content (Type & Number)
-▪ Limit number of NEW content to download
-▪ Monitor workspace storage and more.
-
-Improvements:
+▪ Improve Workspace function:
+  - Restrict duplicatation links.
+  - Save new updated link immediately.
 ▪ Performance of Scraping & Downloading.
-▪ UX & UI enhancement
 ▪ Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
