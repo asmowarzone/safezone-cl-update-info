@@ -1,6 +1,4 @@
-▪ Improve Workspace function:
-  - Restrict duplicatation links.
-  - Save new updated link immediately.
+▪ Fix & Improve Tiktok Downloading Feature.
 ▪ Performance of Scraping & Downloading.
 ▪ Minor bug fixes and stability improvements.
 
