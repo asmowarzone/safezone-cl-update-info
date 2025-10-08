@@ -1,5 +1,11 @@
-▪ Fix & Improve Tiktok Downloading Feature.
-▪ Performance of Scraping & Downloading.
-▪ Minor bug fixes and stability improvements.
+New Feature ✨ - Short Video Extraction:
+▪ Split long videos into smaller segments automatically.
+▪ Set minimum and maximum duration for each segment randomly.
+▪ Supports fixed-length clips when Minimum = Maximum duration.
+▪ Keeps all generated videos inside the original input folder.
+▪ Automatically names outputs for easy organization.
 
+Improvements:
+▪ Improve Performance of Scraping & Downloading.
+▪ Minor bug fixes and stability improvements.
 Thank you for using SnapKee!
