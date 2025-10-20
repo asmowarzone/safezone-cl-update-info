@@ -1,6 +1,5 @@
-▪ Improve Short Video Extraction feature:
-  - Delayed Video playing.
-  - Enhance Short video naming.
-▪ Improve Performance of Youtube scraping & downloading.
+▪ Fix issue caused by GPU Acceleration when extracting Short Video.
+▪ Improve performance of scraping & downloading.
 ▪ Minor bug fixes and stability improvements.
+
 Thank you for using SnapKee!
