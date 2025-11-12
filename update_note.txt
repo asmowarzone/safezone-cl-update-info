@@ -1,5 +1,5 @@
-▪ Fix issue caused by GPU Acceleration when extracting Short Video.
-▪ Improve performance of scraping & downloading.
+▪ Fix Issue of [Tiktok] downloading
+▪ Improve performance of [Instagram] scraping & downloading 
 ▪ Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
