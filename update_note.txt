@@ -1,5 +1,5 @@
-▪ Fix Issue of [Tiktok] downloading
-▪ Improve performance of [Instagram] scraping & downloading 
+▪ Fix Issue of [Douying] downloading
+▪ Improve performance of scraping & downloading
 ▪ Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
