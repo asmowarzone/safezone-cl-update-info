@@ -1,4 +1,7 @@
-▪ Fix Issue of [Douying] downloading
+▪ Introduce New Downloading Platform:
+    - Threads : https://www.threads.com/@username
+    
+▪ Fix Issue of [Instagram - Video] downloading
 ▪ Improve performance of scraping & downloading
 ▪ Minor bug fixes and stability improvements.
 
