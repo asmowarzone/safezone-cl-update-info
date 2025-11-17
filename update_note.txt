@@ -1,7 +1,4 @@
-▪ Introduce New Downloading Platform:
-    - Threads : https://www.threads.com/@username
-    
-▪ Fix Issue of [Instagram - Video] downloading
+▪ Fix Issue of [Instagram] Duplicate Photos downloading
 ▪ Improve performance of scraping & downloading
 ▪ Minor bug fixes and stability improvements.
 
