@@ -1,4 +1,4 @@
-▪ Fix Issue of [Instagram] Duplicate Photos downloading
+▪ Fix Issue of [Xiaohongshu | RedNote] videos downloading
 ▪ Improve performance of scraping & downloading
 ▪ Minor bug fixes and stability improvements.
 
