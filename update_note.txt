@@ -1,4 +1,5 @@
 ▪ Fix Issue of [Xiaohongshu | RedNote] videos downloading
+▪ Fix Issue of [Facebook Reel] file renaming.
 ▪ Improve performance of scraping & downloading
 ▪ Minor bug fixes and stability improvements.
 
