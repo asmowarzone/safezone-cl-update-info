@@ -1,4 +1,4 @@
-▪ Fix Issue of [Tiktok] videos downloading
+▪ Fix Issue of [Xiaohongshu] videos downloading
 ▪ Improve performance of scraping & downloading
 ▪ Minor bug fixes and stability improvements.
 
