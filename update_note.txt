@@ -1,4 +1,5 @@
-▪ Fix Issue of [Xiaohongshu] videos downloading
+▪ [New Feature] Save and Load downloading history. 
+▪ Enhance [Facebook] downloading feature
 ▪ Improve performance of scraping & downloading
 ▪ Minor bug fixes and stability improvements.
 
