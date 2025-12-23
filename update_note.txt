@@ -1,5 +1,5 @@
-▪ [New Feature] Save and Load downloading history. 
-▪ Enhance [Facebook] downloading feature
+▪ Fix [TIKTOK] downloading feature.
+▪ Fix Save and Load link history function.
 ▪ Improve performance of scraping & downloading
 ▪ Minor bug fixes and stability improvements.
 
