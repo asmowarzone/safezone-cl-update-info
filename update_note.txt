@@ -1,6 +1,5 @@
-▪ Fix [TIKTOK] downloading feature.
-▪ Fix Save and Load link history function.
-▪ Improve performance of scraping & downloading
+▪ Enhance [Rednote | Xiaohongshu] downloading feature.
+▪ Improve performance of scraping & downloading.
 ▪ Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
