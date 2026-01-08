@@ -1,7 +1,5 @@
-New Feature – Download from Twitter / X:
-▪ Users can now download videos and photos from twitter.com and x.com
-
-Improvements:
+▪ Enhance [Twitter | X.com] downloading feature
+▪ Add a button to Clear Cookies from tool.
 ▪ UX & UI enhancements
 ▪ Improved scraping and download performance
 ▪ Minor bug fixes and stability improvements
