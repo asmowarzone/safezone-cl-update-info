@@ -1,5 +1,11 @@
-▪ Enhance [Twitter | X.com] downloading feature
-▪ Add a button to Clear Cookies from tool.
+New Feature – Download from Popular Drama Website:
+1. DramaBox | https://www.dramaboxdb.com
+2. NetShort | https://netshort.com
+3. Flickreels | https://www.flickreels.net
+4. Stardusttv | https://www.stardusttv.net
+5. Goodshort | https://www.goodshort.com
+
+Improvements:
 ▪ UX & UI enhancements
 ▪ Improved scraping and download performance
 ▪ Minor bug fixes and stability improvements

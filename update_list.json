@@ -5,6 +5,10 @@
     },
     "update": [
         {
+            "version": "1.3.20",
+            "download_id": "1sEckbU8Xxza3pGs6pNt7u4hbc-AnUVPZ"
+        },
+        {
             "version": "1.3.18",
             "download_id": "1ggO6s5JG3bud3x3_Cm0bT6I4kKepC3ys"
         },
@@ -23,18 +27,6 @@
         {
             "version": "1.3.14",
             "download_id": "1hFq_wjKzLmG5OrFvJc22zxnwAvhn_pfb"
-        },
-        {
-            "version": "1.3.13",
-            "download_id": "1_zSKuKtbVyWt5h1GDQdsYeKA547tVNcQ"
-        },
-        {
-            "version": "1.3.12",
-            "download_id": "1iii_mrPF37A-xwori-pht-dd_N3mbyfm"
-        },
-        {
-            "version": "1.3.11",
-            "download_id": "10AM5enzYjyNu26d0ZLrHHrt84nevVyrL"
         }
     ]
 }
