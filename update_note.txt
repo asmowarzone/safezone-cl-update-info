@@ -1,9 +1,12 @@
-New Feature – Download from Popular Drama Platform:
-1. DramaWave   : mydramawave.com
-2. FreeReels   : free-reels.com
 
-Improvements:
-▪ Fix DramaBox downloading feature
+▪ Fix Downloading Feature from DRAMA website:
+  - DramaBox	: www.dramaboxdb.com
+  - NetShort	: netshort.com
+  - Flickreels	: www.flickreels.net
+  - Stardusttv 	: www.stardusttv.net
+  - Goodshort	: www.goodshort.com
+  - DramaWave   : mydramawave.com
+  - FreeReels	: free-reels.com
 ▪ UX & UI enhancements
 ▪ Improved scraping and download performance
 ▪ Minor bug fixes and stability improvements
