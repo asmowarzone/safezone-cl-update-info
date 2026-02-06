@@ -1,7 +1,7 @@
 
 ▪ Fix Downloading Feature from DRAMA website:
-  - Flickreels	: www.flickreels.net
-  - Goodshort	: www.goodshort.com
+  - DramaBoxDB	: www.dramaboxdb.com
+  - NetShort	  : netshort.com/
 ▪ UX & UI enhancements
 ▪ Improved scraping and download performance
 ▪ Minor bug fixes and stability improvements
