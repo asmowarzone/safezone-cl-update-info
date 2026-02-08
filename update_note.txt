@@ -1,4 +1,3 @@
-
 ▪ Fix [Instagram] downloading feature website
 ▪ Improved scraping and download performance
 ▪ Minor bug fixes and stability improvements
