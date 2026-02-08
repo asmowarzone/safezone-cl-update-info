@@ -1,8 +1,5 @@
 
-▪ Fix Downloading Feature from DRAMA website:
-  - DramaBoxDB	: www.dramaboxdb.com
-  - NetShort	  : netshort.com/
-▪ UX & UI enhancements
+▪ Fix [Instagram] downloading feature website
 ▪ Improved scraping and download performance
 ▪ Minor bug fixes and stability improvements
 
