@@ -32,8 +32,9 @@
     {
         "name": "gallery-dl",
         "version": "1.31.6",
-        "download_id": "1IXDDa3uY46a32QWxsoxxB4F3IexLoCQJ",
-        "filepath": "utilities/tools/yt-dlp/gallery-dl.exe"
+        "download_id": "14-OWspUOHvdWQamT-GEAvfily-lPUo5T",
+        "filepath": "utilities/tools/yt-dlp/gallery-dl.exe",
+        "rarpath": "utilities/tools/yt-dlp/gallery-dl.rar"
     },
     {
         "name": "auto-updater",
