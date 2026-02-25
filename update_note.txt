@@ -1,5 +1,9 @@
-▪ Improved [INSTAGRAM] scraping and downloading feature.
-▪ Improved overall scraping and downloading performance.
-▪ Minor bug fixes and stability improvements.
+New Feature – Download from New Platform:
+1. Reddit   : www.reddit.com
+
+Improvements:
+▪ UX & UI enhancements
+▪ Improved scraping and download performance
+▪ Minor bug fixes and stability improvements
 
 Thank you for using SnapKee!
