@@ -2,9 +2,10 @@ Fix Downloading Feature from DRAMA website:
  ▪ DramaBox     : www.dramaboxdb.com
  ▪ NetShort     : www.netshort.com
  ▪ GoodShort    : www.goodshort.com
+
 Improvements:
-UX & UI enhancements
-Improved scraping and download performance
-Minor bug fixes and stability improvements
+ ▪ UX & UI enhancements
+ ▪ Improved scraping and download performance
+ ▪ Minor bug fixes and stability improvements
 
 Thank you for using SnapKee!
