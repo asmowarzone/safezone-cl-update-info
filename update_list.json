@@ -4,7 +4,11 @@
         "link": "www.bobdevteam.com"
     },
     "update": [ 
-                {
+        {
+            "version": "1.3.29",
+            "download_id": "16T-jk9YAjOp2JkIuFTROVpnzks2-BTkT"
+        },
+        {
             "version": "1.3.28",
             "download_id": "1Dh74rYj-01Gi4i0ShGRSs0j44QOyyhGi"
         },
