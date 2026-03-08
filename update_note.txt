@@ -1,5 +1,6 @@
-Fix Downloading Feature from DRAMA website:
- ▪ FlickReels : www.flickreels.net
+New Feature – Download from New Platform:
+1. BiliTV   : bilitv.com
+2. Velolo   : velolo.otpcamreg.com
 
 Improvements:
  ▪ UX & UI enhancements
