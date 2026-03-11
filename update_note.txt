@@ -1,6 +1,6 @@
 New Feature – Download from New Platform:
-1. BiliTV   : bilitv.com
-2. Velolo   : velolo.otpcamreg.com
+1. Dramabite: www.dramabite.media
+2. ShortMax : www.shorttv.live
 
 Improvements:
  ▪ UX & UI enhancements
