@@ -1,10 +1,5 @@
-New Feature – Download from New Platform:
-1. Dramabite: www.dramabite.media
-2. ShortMax : www.shorttv.live
-
-Improvements:
- ▪ UX & UI enhancements
- ▪ Improved scraping and download performance
- ▪ Minor bug fixes and stability improvements
+▪ Minor Update on [Instagram] Download Feature.
+▪ UX & UI enhancements.
+▪ Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
