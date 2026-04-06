@@ -1,5 +1,11 @@
-▪ Minor Update on [Instagram] Download Feature.
-▪ UX & UI enhancements.
-▪ Minor bug fixes and stability improvements.
+Fix Downloading Feature from DRAMA website:
+ ▪ Goodshort    : https://www.goodshort.com/
+ ▪ DramaWave    : https://mydramawave.com/
+ ▪ FreeReels    : https://free-reels.com/
+ ▪ ShortMax     : https://www.shorttv.live/
+
+Improvements:
+ ▪ Improved scraping and downloading [DramaBox | DramaBoxDb]
+ ▪ Minor bug fixes and stability improvements
 
 Thank you for using SnapKee!
