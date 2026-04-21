@@ -1,11 +1,11 @@
-Fix Downloading Feature from DRAMA website:
- ▪ Goodshort    : https://www.goodshort.com/
- ▪ DramaWave    : https://mydramawave.com/
- ▪ FreeReels    : https://free-reels.com/
- ▪ ShortMax     : https://www.shorttv.live/
+Update Downloading Feature:
+ ▪ Support both RedNote and Xiaohongshu.
+ 
+Fix Downloading Feature:
+ ▪ DramaBox : https://www.DramaBox.com/
 
 Improvements:
- ▪ Improved scraping and downloading [DramaBox | DramaBoxDb]
+ ▪ Improved scraping and downloading
  ▪ Minor bug fixes and stability improvements
 
 Thank you for using SnapKee!
