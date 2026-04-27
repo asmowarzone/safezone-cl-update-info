@@ -1,7 +1,4 @@
 Update Downloading Feature:
- ▪ Support both RedNote and Xiaohongshu.
- 
-Fix Downloading Feature:
  ▪ DramaBox : https://www.DramaBox.com/
 
 Improvements:
