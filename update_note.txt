@@ -1,6 +1,8 @@
-Update Downloading Feature:
- ▪ DramaBox : https://www.DramaBox.com/
- ▪ ShortMax : https://www.shorttv.live/
+Add new downloading platform:
+ ▪ DailyMotion : www.dailymotion.com
+   - Single Video [https://dai.ly/x9hfXXX]
+   - Profile [www.dailymotion.com/user/username]
+   - Playlist [www.dailymotion.com/playlist/x78cXX]
 
 Improvements:
  ▪ Improved scraping and downloading
