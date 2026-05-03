@@ -1,10 +1,6 @@
-Add new downloading platform:
- ▪ DailyMotion : www.dailymotion.com
-   - Single Video [https://dai.ly/x9hfXXX]
-   - Profile [www.dailymotion.com/user/username]
-   - Playlist [www.dailymotion.com/playlist/x78cXX]
-
 Improvements:
+ ▪ Update downloading feature [Kwia.com]
+ ▪ Improved downloading feature [Link Grabber]
  ▪ Improved scraping and downloading
  ▪ Minor bug fixes and stability improvements
 
