@@ -1,6 +1,7 @@
+Add New Downloading Platform:
+ ▪ WeTv [www.wetv.vip]
+
 Improvements:
- ▪ Update downloading feature [Kwia.com]
- ▪ Improved downloading feature [Link Grabber]
  ▪ Improved scraping and downloading
  ▪ Minor bug fixes and stability improvements
 
