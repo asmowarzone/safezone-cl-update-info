@@ -1,5 +1,6 @@
-Add New Downloading Platform:
- ▪ WeTv [www.wetv.vip]
+Update Downloading Feature:
+ ▪ NetShort [www.netshort.com]
+ ▪ GoodShort [www.goodshort.com]
 
 Improvements:
  ▪ Improved scraping and downloading
