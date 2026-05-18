@@ -1,6 +1,11 @@
-Update Downloading Feature:
- ▪ NetShort [www.netshort.com]
- ▪ GoodShort [www.goodshort.com]
+Update Downloading Feature From Drama Website
+ ▪ NetShort
+ ▪ GoodShort
+ ▪ DramaBox
+ ▪ StarDust
+ ▪ DramaBite
+ ▪ DramaWave
+ ▪ Etc ...
 
 Improvements:
  ▪ Improved scraping and downloading
