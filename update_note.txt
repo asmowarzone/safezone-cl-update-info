@@ -1,12 +1,8 @@
-Update Downloading Feature From Drama Website
- ▪ NetShort
- ▪ GoodShort
- ▪ DramaBox
- ▪ StarDust
- ▪ DramaBite
- ▪ DramaWave
- ▪ Etc ...
-
+Add New Downloading Platform:
+ ▪ ReelShort [www.reelshort.com/]
+Fix:
+ ▪ Issue of downloading [BiliTv]
+ ▪ Issue of Extracting [Long to Short Video]
 Improvements:
  ▪ Improved scraping and downloading
  ▪ Minor bug fixes and stability improvements
