@@ -1,8 +1,6 @@
-Add New Downloading Platform:
- ▪ ReelShort [www.reelshort.com/]
-Fix:
- ▪ Issue of downloading [BiliTv]
- ▪ Issue of Extracting [Long to Short Video]
+Minor Update on ReelShort:
+ ▪ Support URL from both Website and Mobile App.
+
 Improvements:
  ▪ Improved scraping and downloading
  ▪ Minor bug fixes and stability improvements
