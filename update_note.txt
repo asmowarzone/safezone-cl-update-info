@@ -1,6 +1,5 @@
-Minor Update on ReelShort:
- ▪ Support URL from both Website and Mobile App.
-
+Update downloading feature from Drama Website:
+ ▪ Dramabox: Wrong subtitle (English)
 Improvements:
  ▪ Improved scraping and downloading
  ▪ Minor bug fixes and stability improvements
