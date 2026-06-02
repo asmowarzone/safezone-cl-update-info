@@ -1,7 +1,5 @@
-Update downloading feature from Drama Website:
- ▪ Dramabox: Wrong subtitle (English)
-Improvements:
- ▪ Improved scraping and downloading
- ▪ Minor bug fixes and stability improvements
+▪ Fix downloading from TIKTOK (no sound).
+▪ Improved scraping and downloading
+▪ Minor bug fixes and stability improvements
 
 Thank you for using SnapKee!
