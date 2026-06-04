@@ -1,5 +1,5 @@
-▪ Fix downloading from TIKTOK (no sound).
-▪ Improved scraping and downloading
-▪ Minor bug fixes and stability improvements
+▪ License duration is temporary.
+▪ Improved scraping and downloading [TIKTOK] & [DRAMA WEBSITE].
+▪ Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
