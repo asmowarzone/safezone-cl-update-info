@@ -31,7 +31,7 @@
     },
     {
         "name": "gallery-dl",
-        "version": "1.32.1",
+        "version": "1.32.2",
         "download_id": "19kXGz1lAb0VuCvfWvNrIHntt5RpWu3B-",
         "filepath": "utilities/tools/yt-dlp/gallery-dl.exe",
         "rarpath": "utilities/tools/yt-dlp/gallery-dl.rar"
