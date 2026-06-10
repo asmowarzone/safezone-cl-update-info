@@ -1,5 +1,6 @@
-▪ License duration is temporary.
-▪ Improved scraping and downloading [TIKTOK] & [DRAMA WEBSITE].
-▪ Minor bug fixes and stability improvements.
+Add New Downloading Platform:
+    ▪ Vigloo : www.vigloo.com
+Improved scraping and downloading
+Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
