@@ -1,5 +1,6 @@
 Add New Downloading Platform:
-    ▪ Vigloo : www.vigloo.com
+    ▪ STARSHORT : www.starshort.tv
+    ▪ VIGLOO    : www.vigloo.com
 Improved scraping and downloading
 Minor bug fixes and stability improvements.
 
