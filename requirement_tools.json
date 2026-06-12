@@ -43,13 +43,14 @@
         "name": "gallery-dl",
         "version": "1.29.4",
         "download_id": "1Mk2ep1aZ8WT78SQQXTbz1HsPWKC6kHR3",
-        "filepath": "./utilities/tools/yt-dlp/gallery-dl.exe"
+        "filepath": "./utilities/tools/yt-dlp/gallery-dl.exe",
+        "rarpath": "utilities/tools/yt-dlp/gallery-dl.rar"
     },
     {
         "name": "auto-updater",
         "version": "0.15",
         "download_id": "1PSdLZL4MgVOlCsriwRiTZaYy5NjN2qyN",
         "filepath": "./SnapKeeUpdater.exe",
-        "rarpath": ""
+        "rarpath": "./SnapKeeUpdater.rar"
     }
 ]
