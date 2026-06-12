@@ -1,5 +1,15 @@
 [
     {
+        "name": "7zip",
+        "version": "A",
+        "download_id": "1BJhGX9e3rwihIveKuQNzoZ2KmIdmQV7h",
+        "download_id_list": [
+            "1BJhGX9e3rwihIveKuQNzoZ2KmIdmQV7h"
+        ],
+        "filepath": "utilities/tools/7z/7z.exe",
+        "rarpath": "utilities/tools/7z/7z.rar"
+    },
+    {
         "name": "aria2c",
         "version": "1.37.0",
         "download_id": "1vXsZ7LxiGJe5FBN7hLEJ_Vx1AguSu_kI",
