@@ -1,5 +1,15 @@
 [
     {
+        "name": "7zip",
+        "version": "A",
+        "download_id": "1BJhGX9e3rwihIveKuQNzoZ2KmIdmQV7h",
+        "download_id_list": [
+            "1BJhGX9e3rwihIveKuQNzoZ2KmIdmQV7h"
+        ],
+        "filepath": "/utilities/tools/7z/7z.exe",
+        "rarpath": "utilities/tools/7z/7z.rar"
+    },
+    {
         "name": "yt-dlp",
         "version": "2025.03.31",
         "download_id": "1G_Miup9u8-IABd-0FWpKorVCfC4Tz8TR",
