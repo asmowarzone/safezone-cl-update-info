@@ -83,11 +83,11 @@
     },
     {
         "name": "auto-updater",
-        "version": "0.15",
-        "download_id": "17yu8RTrjh7tXcJS4xBb1ZEuCpHPDHhUK",
+        "version": "0.17",
+        "download_id": "1JBd5pTfaaXI0kOwKBXXMsRq_rswug46K",
         "download_id_list": [
             "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/SnapKeeUpdater.0.17.rar",
-            "17yu8RTrjh7tXcJS4xBb1ZEuCpHPDHhUK"
+            "1JBd5pTfaaXI0kOwKBXXMsRq_rswug46K"
         ],
         "filepath": "./SnapKeeUpdater.exe",
         "rarpath": "./SnapKeeUpdater.rar"
