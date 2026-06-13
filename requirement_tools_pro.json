@@ -1,14 +1,23 @@
 [
     {
-        "name": "7zip",
+        "name": "7zip_exe",
         "version": "A",
-        "download_id": "1BJhGX9e3rwihIveKuQNzoZ2KmIdmQV7h",
+        "download_id": "",
         "download_id_list": [
-            "1BJhGX9e3rwihIveKuQNzoZ2KmIdmQV7h",
-            "13jlzOcZwsPXJQ3MU0Rexg8iJsvnO-lZB"
+            "https://raw.githubusercontent.com/asmowarzone/safezone-cl-update-info/main/tools/7z/7z(26.01)/7z.exe"
         ],
         "filepath": "utilities/tools/7z/7z.exe",
-        "rarpath": "utilities/tools/7z.rar"
+        "rarpath": ""
+    },
+    {
+        "name": "7zip_dll",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://raw.githubusercontent.com/asmowarzone/safezone-cl-update-info/main/tools/7z/7z(26.01)/7z.dll"
+        ],
+        "filepath": "utilities/tools/7z/7z.dll",
+        "rarpath": ""
     },
     {
         "name": "aria2c",
