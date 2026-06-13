@@ -29,6 +29,9 @@
         "name": "yt-dlp",
         "version": "2026.06.09",
         "download_id": "1rhaVbdISSxVMNKjNzZxU0qW9jX2F6XJp",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/yt-dlp.2026.06.09.txt"
+        ],
         "filepath": "utilities/tools/yt-dlp/yt-dlp.exe"
     },
     {
