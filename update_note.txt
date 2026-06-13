@@ -1,6 +1,4 @@
-Add New Downloading Platform:
-    ▪ STARSHORT : www.starshort.tv
-    ▪ VIGLOO    : www.vigloo.com
+Resolve issue of missing neccessary tool/component. 
 Improved scraping and downloading
 Minor bug fixes and stability improvements.
 
