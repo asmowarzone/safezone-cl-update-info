@@ -3,10 +3,14 @@
         "code": "",
         "link": "www.bobdevteam.com"
     },
-    "update": [ 
+    "update": [
         {
             "version": "1.4.01",
-            "download_id": "1qIXkaR-CeGCOloWGt4CxEPTUopNkDx4u"
+            "download_id": "1qIXkaR-CeGCOloWGt4CxEPTUopNkDx4u",
+            "download_id_list": [
+                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/v1.4.01/V1.4.0.rar",
+                "1qIXkaR-CeGCOloWGt4CxEPTUopNkDx4u"
+            ]
         },
         {
             "version": "1.4.00",
@@ -14,5 +18,3 @@
         }
     ]
 }
-
-
