@@ -42,12 +42,10 @@
     },
     {
         "name": "gallery-dl",
-        "version": "1.32.2",
-        "download_id": "1B-tcNaE99M3RQSYn6TgmStrik3AHEptG-",
+        "version": "1.32.3",
+        "download_id": "1K_rQVhlY2SdselcbT89sOAPlmlv6Xl70",
         "download_id_list": [
-            "1Ji_YfDpaZ3WiB9qgO41fctX4vIx9R1co",
-            "19kXGz1lAb0VuCvfWvNrIHntt5RpWu3B-",
-            "1B-tcNaE99M3RQSYn6TgmStrik3AHEptG-",
+            "1K_rQVhlY2SdselcbT89sOAPlmlv6Xl70",
             "1HhQwRAofzsiTZ8eaVCIukpFqbN_oEZrR"
         ],
         "filepath": "utilities/tools/yt-dlp/gallery-dl.exe",
