@@ -14,6 +14,9 @@
         "name": "aria2c",
         "version": "1.37.0",
         "download_id": "1vXsZ7LxiGJe5FBN7hLEJ_Vx1AguSu_kI",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/aria2c.txt"
+        ],
         "filepath": "utilities/tools/yt-dlp/aria2c.exe"
     },
     {
@@ -29,18 +32,27 @@
         "name": "ffmpeg",
         "version": "N-118735-gbdc07f372a-20250311",
         "download_id": "1x1UTcZRQ7fMu3nVXr2q8KHkMe9-SW1R9",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/ffmpeg.N-118735-gbdc07f372a-20250311.txt"
+        ],
         "filepath": "utilities/tools/yt-dlp/ffmpeg.exe"
     },
     {
         "name": "ffprobe",
         "version": "N-118735-gbdc07f372a-20250311",
         "download_id": "1COSp8rxHiTVPVnBW5x6gPcVbpLkK8fLx",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/ffprobe.N-118735-gbdc07f372a-20250311.txt"
+        ],
         "filepath": "utilities/tools/yt-dlp/ffprobe.exe"
     },
     {
         "name": "ffplay",
         "version": "N-118735-gbdc07f372a-20250311",
         "download_id": "1iFh6C2F04SwssSUBPP62UTGdw-IQ3Am8",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/ffplay.N-118735-gbdc07f372a-20250311.txt"
+        ],
         "filepath": "utilities/tools/yt-dlp/ffplay.exe"
     },
     {
@@ -48,6 +60,7 @@
         "version": "1.32.3",
         "download_id": "1K_rQVhlY2SdselcbT89sOAPlmlv6Xl70",
         "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/gallery-dl.v1.32.3.rar",
             "1K_rQVhlY2SdselcbT89sOAPlmlv6Xl70",
             "1HhQwRAofzsiTZ8eaVCIukpFqbN_oEZrR"
         ],
@@ -65,6 +78,9 @@
         "name": "pw-firefox",
         "version": "135.0.0.1647",
         "download_id": "1yTqk7ZEqUOc36XqnPdZ0XBBRRylBbSPL",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/firefox.135.0.0.1647.rar"
+        ],
         "filepath": "utilities/tools/pw-shell/firefox/firefox.exe",
         "rarpath": "utilities/tools/pw-shell/pw-firefox.rar"
     },
@@ -72,6 +88,9 @@
         "name": "pw-chromium",
         "version": "134.0.6998.35",
         "download_id": "1WMNVvWMo2rwmk_OHmyAYzDRwP5uirV0i",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/chromium.134.0.6998.35.rar"
+        ],
         "filepath": "utilities/tools/pw-shell/chromium/chrome.exe",
         "rarpath": "utilities/tools/pw-shell/pw-chromium.rar"
     },
@@ -79,6 +98,9 @@
         "name": "pw-chromium_headless",
         "version": "134.0.6998.35",
         "download_id": "1gFISh8cNu1QJlTjyvQY7r5htNyD1Ccdy",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/chromium_headless.134.0.6998.35.rar"
+        ],
         "filepath": "utilities/tools/pw-shell/chromium_headless/headless_shell.exe",
         "rarpath": "utilities/tools/pw-shell/pw-chromium_headless.rar"
     }
