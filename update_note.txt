@@ -1,5 +1,6 @@
-Resolve issue of missing neccessary tool/component. 
-Improved scraping and downloading
-Minor bug fixes and stability improvements.
+What's news - (version 1.4.03)?
+ - Enhance TIKTOK downloading Feature and Speed.
+ - Improved overall Scraping and Downloading
+ - Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
