@@ -1,5 +1,7 @@
-What's news - (version 1.4.03)?
- - Enhance TIKTOK downloading Feature and Speed.
+What's new?
+ - Enhance [Instgram] Video Resuolution.
+ - Enhance [StarDust] Drama Downloading Feature.
+ - Enhance [Video Splitter | Extraction] Features.
  - Improved overall Scraping and Downloading
  - Minor bug fixes and stability improvements.
 
