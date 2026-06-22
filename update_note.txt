@@ -1,7 +1,10 @@
 What's new?
- - Enhance [Instgram] Video Resuolution.
- - Enhance [StarDust] Drama Downloading Feature.
- - Enhance [Video Splitter | Extraction] Features.
+ - New Downloading Platform:
+   iDrama [www.idrama.video]
+Enhancement:
+ - [Instgram] Video Resuolution.
+ - [StarDust] Drama Downloading Feature.
+ - [Video Splitter | Extraction] Features.
  - Improved overall Scraping and Downloading
  - Minor bug fixes and stability improvements.
 
