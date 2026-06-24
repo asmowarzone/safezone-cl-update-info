@@ -1,6 +1,6 @@
 Enhancement:
- - Fix downloading from IG with link Grabber.
- - Fix downloading from Drama Website.
+ - Fix downloading Video low quality when choose [Best for LD player].
+ - Fix downloading Photo from IG with link Grabber.
  - Improved overall Scraping and Downloading.
  - Minor bug fixes and stability improvements.
 
