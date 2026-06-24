@@ -1,11 +1,7 @@
-What's new?
- - New Downloading Platform:
-   iDrama [www.idrama.video]
 Enhancement:
- - [Instgram] Video Resuolution.
- - [StarDust] Drama Downloading Feature.
- - [Video Splitter | Extraction] Features.
- - Improved overall Scraping and Downloading
+ - Fix downloading from IG with link Grabber.
+ - Fix downloading from Drama Website.
+ - Improved overall Scraping and Downloading.
  - Minor bug fixes and stability improvements.
 
 Thank you for using SnapKee!
