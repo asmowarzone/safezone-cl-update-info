@@ -1,5 +1,5 @@
 Enhancement:
- - Fix downloading Video low quality when choose [Best for LD player].
+ - Fix downloading IG video quality when choose [Best for LD player].
  - Fix downloading Photo from IG with link Grabber.
  - Improved overall Scraping and Downloading.
  - Minor bug fixes and stability improvements.
