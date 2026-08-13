@@ -1,15 +1,7 @@
 What's new?
- - New Supported Platform:
-   1. FlexTV [www.flextv.cc]
-   2. KissKH [kisskh.ovh, kisskh.co, kisskh.do, kisskh.id, kisskh.org]
-   3. Phumikhmer [www.phumikhmer.net]
-   4. Video4khmer [video4khmer.khmerdrama.org]
-   5. Kolabkhmer [kolabkhmer.com, kolabkhmer.org, kolabkhmer.top]
-
-Enhancement:
- - Dramabox Downlaoding Feature
- - DramaWav Downlaoding Feature
- - Improved overall Scraping and Downloading.
- - Minor bug fixes and UI improvements.
+- Enhancement:
+ 1. Facebook Downlaoding Feature
+ 2. Improved overall Scraping and Downloading.
+ 3. Minor bug fixes and UI improvements.
 
 Thank you for using SnapKee!
