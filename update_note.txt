@@ -1,6 +1,7 @@
 What's new?
-- Enhancement:
- 1. Facebook Downlaoding Feature
+ 1. TIKTOK Downlaoding Feature:
+    - Downloading Short Drama
+    - Fix Scrapping and Downloading
  2. Improved overall Scraping and Downloading.
  3. Minor bug fixes and UI improvements.
 
