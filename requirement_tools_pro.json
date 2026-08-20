@@ -31,11 +31,11 @@
     },
     {
         "name": "yt-dlp",
-        "version": "2026.07.04",
-        "download_id": "1uDeNUZTw29fMQX7VGSQ6vPC1dMxY0m7V",
+        "version": "2026.08.19",
+        "download_id": "1efu_BHY5wrupOJ_97-54Mqv6nRrYgCbp",
         "download_id_list": [
-            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/yt-dlp.2026.07.04.txt",
-            "1uDeNUZTw29fMQX7VGSQ6vPC1dMxY0m7V"
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/yt-dlp.2026.08.19.txt",
+            "1efu_BHY5wrupOJ_97-54Mqv6nRrYgCbp"
         ],
         "filepath": "utilities/tools/yt-dlp/yt-dlp.exe"
     },
