@@ -1,4 +1,4 @@
-1. [NEW]​- Add new supported [bilibil] platform:
+1. [NEW]​- Add new supported platform [bilibili]:
    - www.bilibili.tv
    - www.bilibili.com
    
