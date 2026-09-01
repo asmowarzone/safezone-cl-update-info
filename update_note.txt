@@ -1,6 +1,5 @@
-1. [NEW]​- Add new supported platform [bilibili]:
-   - www.bilibili.tv
-   - www.bilibili.com
+1. [NEW]​- Add new supported platform [Melolo]:
+   - www.melolo.org
    
 2. Improved overall Scraping and Downloading.
 3. Minor bug fixes and UI improvements.
