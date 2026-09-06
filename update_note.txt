@@ -1,7 +1,9 @@
-1. [NEW]​- Add new supported platform [Melolo]:
-   - www.melolo.org
+1. [NEW]​- Add new supported platform:
+   - SUNO   :https://suno.com
+   - GZ360  :https://gz360.tv
    
-2. Improved overall Scraping and Downloading.
-3. Minor bug fixes and UI improvements.
+2. Improved Caption Translation.
+3. Improved Overall Scraping and Downloading.
+4. Minor Bug Fixes and UI improvements.
 
 Thank you for using SnapKee!
