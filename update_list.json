@@ -4,7 +4,15 @@
         "link": "www.bobdevteam.com"
     },
     "update": [
-         {
+        {
+            "version": "1.4.16",
+            "download_id": "19jCaGBhww1XtR86V9PSHUvgCEQqjPMVe",
+            "download_id_list": [
+                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.16/SnapKee.V1.4.16.Update.rar",
+                "19jCaGBhww1XtR86V9PSHUvgCEQqjPMVe"
+            ]
+        }, 
+        {
             "version": "1.4.15",
             "download_id": "1c9krgxWDqufp7bcUxxEWXOV9MBFvp8RC",
             "download_id_list": [
