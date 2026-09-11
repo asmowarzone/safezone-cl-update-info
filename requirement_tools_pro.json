@@ -123,5 +123,25 @@
         ],
         "filepath": "utilities/tools/pw-shell/chromium_headless/headless_shell.exe",
         "rarpath": "utilities/tools/pw-shell/pw-chromium_headless.rar"
+    },
+    {
+        "name": "CDN jre",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/cdn_fqnovel/cdn_jre.rar"
+        ],
+        "filepath": "utilities/tools/cdn/jre/bin/javaw.exe",
+        "rarpath": "utilities/tools/cdn.rar"
+    },
+    {
+        "name": "CDN app",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/cdn_fqnovel/cdn_app.rar"
+        ],
+        "filepath": "./cdn/app/frida/offline_decrypt.pyc",
+        "rarpath": "./cdn.rar"
     }
 ]
