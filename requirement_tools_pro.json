@@ -4,7 +4,7 @@
         "version": "0.17.0",
         "download_id": "",
         "download_id_list": [
-            "https://github.com/quickjs-ng/quickjs/releases/download/v0.17.0/qjsc-windows-x86_64.exe"
+            "https://github.com/quickjs-ng/quickjs/releases/download/v0.17.0/qjs-windows-x86_64.exe"
         ],
         "filepath": "utilities/tools/yt-dlp/qjs.exe",
         "rarpath": ""
