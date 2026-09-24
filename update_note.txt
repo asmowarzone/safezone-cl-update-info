@@ -1,7 +1,5 @@
-1. Downloading Full VIP Movie from:
-   - iQIYI : www.iq.com
-2. Improved Downloading from [WETV - www.wetv.vip].
-3. Improved Overall Scraping and Downloading.
-4. Minor Bug Fixes and UI improvements.
+1. Fix Downloading [Reel] from [Instagram].
+2. Improved Overall Scraping and Downloading.
+3. Minor Bug Fixes and UI improvements.
 
 Thank you for using SnapKee!
