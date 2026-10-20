@@ -1,6 +1,5 @@
-1. Fix Downloading from [THREADS.COM].
-2. Fix Downloading from [X.COM | TWITTER.COM].
-3. Improved Overall Scraping and Downloading.
-4. Minor Bug Fixes and UI improvements.
+1. Fix Downloading from [INSTAGRAM.COM].
+2. Improved Overall Scraping and Downloading.
+3. Minor Bug Fixes and UI improvements.
 
 Thank you for using SnapKee!
