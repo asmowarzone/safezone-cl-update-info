@@ -1,5 +1,5 @@
 What's new?
-1. Add [Internal Browser] feature.
+1. Add [Link Grabber - Internal Browser] feature.
 
 Improvements:
 1. Fix Downloading from [HONGGUO - hongguoduanju].
