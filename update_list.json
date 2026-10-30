@@ -5,6 +5,14 @@
     },
     "update": [
         {
+            "version": "1.5.02",
+            "download_id": "1BfZqSqU5E59SmGeGLPtxtG9SZCaI-MPq",
+            "download_id_list": [
+                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.5/SnapKee.V1.5.02.Update.rar",
+                "1BfZqSqU5E59SmGeGLPtxtG9SZCaI-MPq"
+            ]
+        },
+        {
             "version": "1.5.01",
             "download_id": "14qMbwg9bwST0x5GuC_uV9ei27j23w3XV",
             "download_id_list": [
@@ -19,203 +27,6 @@
                 "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.5/SnapKee.V1.5.00.Update.rar",
                 "1LaRiTeAq3ALgcipwMvnYimDiNcfwKWu9"
             ]
-        },
-        {
-            "version": "1.4.24",
-            "download_id": "1mc4wj-Pnsi5iEywT5NSg4jSNd0nt6qTb",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.24/SnapKee.V1.4.24.Update.rar",
-                "1mc4wj-Pnsi5iEywT5NSg4jSNd0nt6qTb"
-            ]
-        },
-        {
-            "version": "1.4.23",
-            "download_id": "1jXIs69XLat7FbtC7WpGwZCD6CyvlTpzJ",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.23/SnapKee.V1.4.23.Update.rar",
-                "1jXIs69XLat7FbtC7WpGwZCD6CyvlTpzJ"
-            ]
-        },
-        {
-            "version": "1.4.22",
-            "download_id": "1TKvtmYJMaf9a7XK1jaGHq62dl6ZHKwvs",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.22/SnapKee.V1.4.22.Update.rar",
-                "1TKvtmYJMaf9a7XK1jaGHq62dl6ZHKwvs"
-            ]
-        },
-        {
-            "version": "1.4.21",
-            "download_id": "1pk1Sc81fBwbDSnOCsPeZ9Osy0goECVCg",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.21/SnapKee.V1.4.21.Update.rar",
-                "1pk1Sc81fBwbDSnOCsPeZ9Osy0goECVCg"
-            ]
-        },
-        {
-            "version": "1.4.20",
-            "download_id": "1v1CJ88mQ7rsTPEgBqwGmzXZbzPkuXJxD",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.20/SnapKee.V1.4.20.Update.rar",
-                "1v1CJ88mQ7rsTPEgBqwGmzXZbzPkuXJxD"
-            ]
-        },
-        {
-            "version": "1.4.19",
-            "download_id": "1DRMCW8Fn7g_9lnBYJ8b6OWeExYRZm8wE",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.19/SnapKee.V1.4.19.Update.rar",
-                "1DRMCW8Fn7g_9lnBYJ8b6OWeExYRZm8wE"
-            ]
-        },
-        {
-            "version": "1.4.18",
-            "download_id": "1NkYhP2OJNX6AoXSakq6Z7jJ55sL4eLMo",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.18/SnapKee.V1.4.18.Update.rar",
-                "1NkYhP2OJNX6AoXSakq6Z7jJ55sL4eLMo"
-            ]
-        },
-        {
-            "version": "1.4.17",
-            "download_id": "15fOX8hv9BvfYTL4WV8SpZJNuUrppeLNV",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.17/SnapKee.V1.4.17.Update.rar",
-                "15fOX8hv9BvfYTL4WV8SpZJNuUrppeLNV"
-            ]
-        },
-        {
-            "version": "1.4.16",
-            "download_id": "19jCaGBhww1XtR86V9PSHUvgCEQqjPMVe",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.16/SnapKee.V1.4.16.Update.rar",
-                "19jCaGBhww1XtR86V9PSHUvgCEQqjPMVe"
-            ]
-        }, 
-        {
-            "version": "1.4.15",
-            "download_id": "1c9krgxWDqufp7bcUxxEWXOV9MBFvp8RC",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.15/SnapKee.V1.4.15.Update.rar",
-                "1c9krgxWDqufp7bcUxxEWXOV9MBFvp8RC"
-            ]
-        },
-        {
-            "version": "1.4.14",
-            "download_id": "1higFMEEbKEifzhaCgGc9noYyocmbdmgN",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.14/SnapKee.V1.4.14.Update.rar",
-                "1higFMEEbKEifzhaCgGc9noYyocmbdmgN"
-            ]
-        },
-        {
-            "version": "1.4.13",
-            "download_id": "1oN6_Dh0GVE1KvUENHky1wovt7aZr9sZ5",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.13/SnapKee.V1.4.13.Update.rar",
-                "1oN6_Dh0GVE1KvUENHky1wovt7aZr9sZ5"
-            ]
-        },
-        {
-            "version": "1.4.12",
-            "download_id": "14tjadwthN3mguKmbtyA84lkQH1strxFH",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/New_Version/SnapKee.V1.4.12.Update.rar",
-                "14tjadwthN3mguKmbtyA84lkQH1strxFH"
-            ]
-        },
-        {
-            "version": "1.4.11",
-            "download_id": "1EFvnc-snYcpH0Bq3Itndw621sVG4MXo5",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.11/SnapKee.V1.4.11.Update.rar",
-                "1EFvnc-snYcpH0Bq3Itndw621sVG4MXo5"
-            ]
-        },
-        {
-            "version": "1.4.10",
-            "download_id": "1VGli7j6AgwGBVKnQVsKQzIDZ9womT4od",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.10/SnapKee.V1.4.10.Update.rar",
-                "1VGli7j6AgwGBVKnQVsKQzIDZ9womT4od"
-            ]
-        },
-        {
-            "version": "1.4.09",
-            "download_id": "1u0Z03Crimx_TtsIuDvjExYSIytLYsuDM",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.09/SnapKee.V1.4.09.Update.rar",
-                "1u0Z03Crimx_TtsIuDvjExYSIytLYsuDM"
-            ]
-        },
-        {
-            "version": "1.4.08",
-            "download_id": "12oqFgr88hfC3jE1iCda5jC-JSP2CrWUK",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.08/SnapKee.V1.4.08.Update.rar",
-                "12oqFgr88hfC3jE1iCda5jC-JSP2CrWUK"
-            ]
-        },
-        {
-            "version": "1.4.07",
-            "download_id": "1LbhMIeAdfhitLhHT5voVHbKOcjX0_ymZ",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.07/SnapKee.V1.4.07.Update.rar",
-                "1LbhMIeAdfhitLhHT5voVHbKOcjX0_ymZ"
-            ]
-        },
-        {
-            "version": "1.4.06",
-            "download_id": "1itEJCs9fUQN8rUuCxLsfpizbf4tDOKw5",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.06/SnapKee.V1.4.06.Update.rar",
-                "1itEJCs9fUQN8rUuCxLsfpizbf4tDOKw5"
-            ]
-        },
-        {
-            "version": "1.4.05",
-            "download_id": "1LxFk5wMTd9qq4Z9OGbynM8VCMdy9F6uZ",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.05/SnapKee.V1.4.05.Update.rar",
-                "1LxFk5wMTd9qq4Z9OGbynM8VCMdy9F6uZ"
-            ]
-        },
-        {
-            "version": "1.4.04",
-            "download_id": "1LLyfIpuXSwKEr2_srp3vFVUn7I6wtSOp",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.04/SnapKee.V1.4.04.Update.rar",
-                "1LLyfIpuXSwKEr2_srp3vFVUn7I6wtSOp"
-            ]
-        },
-        {
-            "version": "1.4.03",
-            "download_id": "1Li0nMrs6QKmIxpP9J4yoAErKHkUuGfnO",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.03/SnapKee.V1.4.03.Update.rar",
-                "1Li0nMrs6QKmIxpP9J4yoAErKHkUuGfnO"
-            ]
-        },
-        {
-            "version": "1.4.02",
-            "download_id": "1ZTKerD2moKc7Bcqg21uBwoXxqrnIGESL",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.4.02/SnapKee.V1.4.02.Update.rar",
-                "1ZTKerD2moKc7Bcqg21uBwoXxqrnIGESL",
-                "15LDE_1PIAWa13l5fkw7QO98J7CmVbXpu"
-            ]
-        },
-        {
-            "version": "1.4.01",
-            "download_id": "1qIXkaR-CeGCOloWGt4CxEPTUopNkDx4u",
-            "download_id_list": [
-                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/v1.4.01/V1.4.0.rar",
-                "1qIXkaR-CeGCOloWGt4CxEPTUopNkDx4u"
-            ]
-        },
-        {
-            "version": "1.4.00",
-            "download_id": "1OKsRi2kE8Nw8DidXDISFYerhi81dr3DL"
         }
     ]
 }
