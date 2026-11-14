@@ -81,11 +81,11 @@
     },
     {
         "name": "gallery-dl",
-        "version": "1.32.19",
-        "download_id": "1VMlII74MjJYMALw89TReRNKA7_Q_9LBM",
+        "version": "1.32.20",
+        "download_id": "16UhIM4EleQzpV0ubH9KPJM25YGIY_kSp",
         "download_id_list": [
-            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/gallery-dl.v1.32.19.rar",
-            "1VMlII74MjJYMALw89TReRNKA7_Q_9LBM"
+            "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/SNPK-Requirement/gallery-dl.v1.32.20.rar",
+            "16UhIM4EleQzpV0ubH9KPJM25YGIY_kSp"
         ],
         "filepath": "utilities/tools/yt-dlp/gallery-dl.exe",
         "rarpath": "utilities/tools/yt-dlp/gallery-dl.rar"
