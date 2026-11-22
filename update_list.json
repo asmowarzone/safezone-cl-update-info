@@ -5,6 +5,14 @@
     },
     "update": [
         {
+            "version": "1.5.06",
+            "download_id": "1TXl9tJS3k0XXI2_VWbdm8T91McGUtXN8",
+            "download_id_list": [
+                "https://github.com/asmowarzone/safezone-cl-update-info/releases/download/V1.5/SnapKee.V1.5.06.Update.rar",
+                "1TXl9tJS3k0XXI2_VWbdm8T91McGUtXN8"
+            ]
+        },
+        {
             "version": "1.5.05",
             "download_id": "12FEJ2WNWbe2RelB8DpaRp6KHORvawhfd",
             "download_id_list": [
