@@ -1,7 +1,6 @@
 Improvements:
 1. Fix Scrapping and Downloading: 
  - Hongguo | hongguoduanju
- - X | Twitter
  
 2. Improved Overall Scraping and Downloading.
 3. Minor Bug Fixes and UI improvements.
